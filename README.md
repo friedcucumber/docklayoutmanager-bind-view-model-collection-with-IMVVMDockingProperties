@@ -1,0 +1,1 @@
+# docklayoutmanager-bind-view-model-collection-with-IMVVMDockingProperties
